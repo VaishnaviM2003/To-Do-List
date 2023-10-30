@@ -1,1 +1,5 @@
 # To-Do-List
+Aim of the project is to design and implement a to-do list using singly linked lists in a programming language such as C. The program will allow users to add,delete,modify and sort tasks in the list. It allows the user to create tasks with titles, descriptions, types, and deadlines, edit existing tasks, delete tasks, and view the list of ongoing tasks and completed tasks. 
+In addition, the program has the option to save completed tasks to another linked list to keep track of them. Each task will be represented by a node in the linked list, and the list will be ordered based on the priority of each task. 
+
+In conclusion, a To-Do List program using linked list is an effective and efficient tool for managing tasks. It’s simple and user-friendly interface, combined with its dynamic and flexible linked list structure, makes it an ideal solution for individuals looking to improve their productivity and manage their tasks more effectively. Whether for personal, educational or professional use, the To-Do List program provides a comprehensive solution for task management.
